@@ -12,7 +12,6 @@ updated: 2026-04-09
 status: living-document
 version: "2.0"
 ---
-w
 # Mechanica Celestia — Master Codex
 
 > [!abstract] About This Document
